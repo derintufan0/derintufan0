@@ -1,4 +1,4 @@
-### <div align="center">I'm Derin Tufan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+## <div align="center">I'm Derin Tufan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
 
 - **🔭 I’m currently working on [Faaw Web Solution](https://faaw.net/)**  
   
