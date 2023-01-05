@@ -1,4 +1,4 @@
-## <div align="center">I'm Derin Tufan, im in love with code(s). 👨‍💻</div>  
+## <div align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Derin Tufan, im in love with code(s). 👨‍💻</div>  
 
 - **🔭 I’m currently working on [Faaw Web Solution](https://faaw.net/)**  
   
