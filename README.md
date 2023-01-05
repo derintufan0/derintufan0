@@ -1,4 +1,4 @@
-## <div align="center">I'm Derin Tufan, im a System Solver :) 👨‍💻</div>  
+## <div align="center">I'm Derin Tufan, im in love with code(s). 👨‍💻</div>  
 
 - **🔭 I’m currently working on [Faaw Web Solution](https://faaw.net/)**  
   
