@@ -1,4 +1,4 @@
-## <div align="center">I'm Derin Tufan, a full-time full-stack freelance developer 👨‍💻</div>  
+## <div align="center">I'm Derin Tufan, im a System Solver :) 👨‍💻</div>  
 
 - **🔭 I’m currently working on [Faaw Web Solution](https://faaw.net/)**  
   
