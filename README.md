@@ -9,7 +9,7 @@
 - ❓ Ask me about anything related to Python and C  
   
 
-- ⚡ Fun fact: Im a professional MMA Fighter  
+- ⚡ Fun fact: I love MMA and Ski..
   
 
 <br/>  
