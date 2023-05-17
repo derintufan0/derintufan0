@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Kotlin and SCADA Systems  
   
 
-- ❓ Ask me about anything related to Python and C  
+- ❓ Ask me about anything related to Linux Systems and Cyber Security
   
 
 - ⚡ Fun fact: I love MMA and Ski..
